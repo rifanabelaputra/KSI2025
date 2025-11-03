@@ -1,3 +1,4 @@
+# Buat file koneksi.php
 echo '<?php
 $host = "localhost";
 $user = "root";
@@ -10,5 +11,5 @@ if (!$koneksi) {
     die("Koneksi Gagal: " . mysqli_connect_error());
 }
 
-// echo "Koneksi Berhasil!";
+// echo "Koneksi Berhasil!"; // Matikan agar tidak tampil di halaman lain
 ?>' > koneksi.php
