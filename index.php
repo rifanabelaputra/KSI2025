@@ -2,19 +2,9 @@
 // Data mahasiswa (array asosiatif)
 $mahasiswa = [
     [
-        "nama" => "Budi Santoso",
+        "nama" => "Rifa Nabela Putra",
         "npm" => "23753001",
         "jurusan" => "Teknik Informatika"
-    ],
-    [
-        "nama" => "Citra Lestari",
-        "npm" => "23753002",
-        "jurusan" => "Manajemen Informatika"
-    ],
-    [
-        "nama" => "Andi Pratama",
-        "npm" => "23753003",
-        "jurusan" => "Teknik Komputer"
     ]
 ];
 ?>
