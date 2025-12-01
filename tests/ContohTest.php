@@ -1,3 +1,4 @@
+<?php 
 // tests/ContohTest.php
 
 use PHPUnit\Framework\TestCase;
